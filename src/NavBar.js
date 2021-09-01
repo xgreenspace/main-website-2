@@ -34,7 +34,7 @@ export default function NavBar() {
                             <div className="navbar-item">
                                 <div className="field is-grouped">
                                     <p className="control">
-                                        <a className="button is-link" role="button" href="#https://github.com/xgreenspace">
+                                        <a className="button is-link" role="button" href="https://www.linkedin.com/in/amariawest/" target="_blank">
                                             <span class="icon">
                                             <FontAwesomeIcon icon={faLinkedin} />
                                             </span>
@@ -42,7 +42,7 @@ export default function NavBar() {
                                         </a>
                                     </p>
                                     <p className="controll">
-                                        <a className="button is-black" role="button" href="#https://www.linkedin.com/in/amariawest/">
+                                        <a className="button is-black" role="button" href="https://github.com/xgreenspace" target="_blank">
                                             <span class="icon">
                                             <FontAwesomeIcon icon={faGithub} />
                                             </span>
